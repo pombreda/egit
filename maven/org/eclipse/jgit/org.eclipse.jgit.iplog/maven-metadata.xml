@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.eclipse.jgit</groupId>
+  <artifactId>org.eclipse.jgit.iplog</artifactId>
+  <version>0.5.1.140-g660fd39</version>
+  <versioning>
+    <versions>
+      <version>0.5.1.140-g660fd39</version>
+    </versions>
+    <lastUpdated>20100129185402</lastUpdated>
+  </versioning>
+</metadata>
